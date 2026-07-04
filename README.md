@@ -29,4 +29,5 @@ gaming_analysis_project/
 ├── notebooks/            # Jupyter Notebook с анализом
 ├── powerbi/              # Файл дашборда 
 ├── images/               # Скриншоты страниц дашборда
-└── README.md             # Описание проекта
+├── README.md             # Описание проекта
+└── requirements.txt      # Список Python-библиотек для запуска
