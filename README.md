@@ -23,6 +23,7 @@
 
 ## Структура проекта
 
+```bash
 gaming_analysis_project/
 ├── sql/                  # SQL-запросы 
 ├── notebooks/            # Jupyter Notebook с анализом
